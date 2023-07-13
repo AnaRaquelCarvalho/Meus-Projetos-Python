@@ -5,4 +5,3 @@ n3 = float(input('Digite um terceiro número: '))
 s = n1 + n2 + n3
 print('A soma é: ',s)
 
-print('---------------------------------------')
