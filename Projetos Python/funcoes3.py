@@ -1,4 +1,4 @@
-print('='*8,' Calculando valores com Operadores Aritméticos ','='*8)
+print('Calculando com Operadores Aritméticos ')
 
 # Exercicio com as funções para quebrar linhas (\n)
 n1 = float(input('Informe um número: '))
